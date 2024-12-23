@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|c:\\users\\user\\desktop\\expensetrackerproject\\expensetrackerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|solutionrelative:expensetrackerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|c:\\users\\user\\desktop\\expensetrackerproject\\expensetrackerproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|solutionrelative:expensetrackerproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|c:\\users\\user\\desktop\\expensetrackerproject\\expensetrackerproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|solutionrelative:expensetrackerproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|c:\\users\\user\\desktop\\expensetrackerproject\\expensetrackerproject\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|solutionrelative:expensetrackerproject\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|c:\\users\\user\\desktop\\expensetrackerproject\\expensetrackerproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|solutionrelative:expensetrackerproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|c:\\users\\user\\desktop\\expensetrackerproject\\expensetrackerproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|solutionrelative:expensetrackerproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|c:\\users\\user\\desktop\\expensetrackerproject\\expensetrackerproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|solutionrelative:expensetrackerproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|c:\\users\\user\\desktop\\expensetrackerproject\\expensetrackerproject\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8777F4-993C-4B91-8E8B-39F944908894}|ExpenseTrackerProject\\ExpenseTrackerProject.csproj|solutionrelative:expensetrackerproject\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTrackerProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTrackerProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T22:12:04.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTrackerProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExpenseTrackerProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T22:00:49.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpenseTrackerProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:43:18.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Program.cs",
+              "RelativeToolTip": "ExpenseTrackerProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:18:00.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerProject\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "ExpenseTrackerProject\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:48:21.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ExpenseTrackerProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwFkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:06:48.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerProject\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "ExpenseTrackerProject\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T15:19:06.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerProject\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ExpenseTrackerProject\\ExpenseTrackerProject\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "ExpenseTrackerProject\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:10:30.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
